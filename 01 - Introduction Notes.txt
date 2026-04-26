@@ -1,0 +1,377 @@
+============================
+Course Name : DEVOPS+AWS-BatchNo-112
+============================
+
+=>  Pre-Requisites : Your time + Your Interest + Laptop or Desktop + any Degree with Minimal Communication
+
+=>  Course Content : 6 Modules
+
+	Module-1 : DevOps Introduction + Cloud(Aws)
+
+	Module-2 : Linux OS + Shell Scripting
+
+	Module-3 : DevOps Phase-1(Git,github,Maven,Nexus, sonarqube and Tomcat Jenkins)
+
+	Module-4 : DevOps Phase-2(Docker,Kubernetes and Ansible/Terraform)
+
+	Module-5 : DevOps Phase-3(CloudWatch,Promtheus and Grafana)
+
+	Module-6 : Soft copy Material + Interview Questions and Answers + Interview Guidance
+
+
+
+Note: Every day last 15 mins for Queries and clarifications
+
+
+Note: After this course completion, you can attend interviews with any years of experience.
+
+
+
+=================
+Software Project
+=================
+
+=> Collection of programs is called as Software Project
+
+================================
+Why we need Software Project ?
+================================
+
+=> To reduce human efforts
+
+Ex: Net Banking, Ticket Booking, Online Training platforms etc....
+
+======================
+Project Architecture
+======================
+
+=> Software Project Contains 3 Layers
+
+1) Frontend : User interface (Presentation layer)
+
+2) Backend : Business Layer (Business logic)
+
+3) Database : To store data
+
+======================
+Frontend Technologies
+======================
+
+	1) HTML & CSS
+	2) Java Script
+	3) BootStrap
+	4) Angular / React JS
+
+=====================
+Backend Technologies
+=====================
+
+	1) Java
+	2) .Net
+	3) Python
+	4) PHP
+	5) Node JS
+
+===========
+Databases
+===========
+
+	1) Oracle
+	2) MySQL
+	3) PostGres
+	4) SQL Server
+	5) Mongo DB
+	6) Casandra etc....
+
+
+===================
+What is DevOps ?
+==================
+
+	DevOps = Development + Operations
+
+=> DevOps is a culture
+
+=> DevOps is a process
+
+=> DevOps is set of practices
+
+=> DevOps process is used to establish collaboration between Development team & Operations team.
+
+=> The main aim of DevOps is to deliver projects to clients with high quality in less time.
+
+==========================
+What is DevOps Life Cycle
+=========================
+
+=> We have 7 C's in DevOps life cycle
+
+1) Continuous Planning
+
+2) Continuous Development
+
+3) Continuous Integration
+
+4) Continuous Testing
+
+5) Continuous Deployment
+
+6) Continuous Monitoring
+
+7) Continuous Feedback
+
+
+================
+What is SDLC ?
+================
+
+=> SDLC stands for Software Development LifeCycle
+
+=> SDLC represents Software Project Development process from starting to ending
+
+=> We have several stages in SDLC process
+
+1) Requirements Gathering
+
+2) Analyze Requirements
+
+3) Planning
+
+4) Implementation (Development)
+
+5) Testing
+
+6) Deployment
+
+7) Monitoring
+
+
+=> We have several SDLC methodologies
+
+1) Waterfall Model
+
+2) Agile Model
+
+
+===============
+Waterfall Model
+===============
+
+=> It is a linear process to develop and deliver the application
+
+=> All stages will happen one after other
+
+=> Requirements are fixed
+
+=> Budget is fixed
+
+=> Client involvement is very less
+
+=> Client will see the project only at the end
+
+Note: If client don't like our delivery then total money wasted and time wasted.
+
+=============
+Agile Model
+=============
+
+=> Agile is an iterative approach to develop and deliver the application
+
+=> Planning + Development + Testing + Deployment + Feedback is continuous process in Agile.
+
+=> We will deliver project to client in Multiple Releases (Sprints)
+
+=> Client involvement is very high in project
+
+=> Client feedback is very important to proceed further
+
+=> Requirements are not fixed
+
+=> Budget is not fixed
+
+####  Ex: Client provided 100 requirements for development ####
+
+Sprint - 1 :: 30 requirements : plan + develop + test + deliver + take feedback
+
+Sprint - 2 :: 30 requirements : plan + develop + test + deliver + take feedback
+
+Sprint - 3 :: 30 requirements : plan + develop + test + deliver + take feedback
+
+Sprint - 4 :: 10 requirements : plan + develop + test + deliver + take feedback
+
+
+==========================
+What is Infrastructure ?
+==========================
+
+The resources that are required to run our business is called as Infrastructure
+
+Ex: Machines, Servers, Databases, Power, Network, Storage, Security & Monitoring
+
+=> Challenges with IT infrastructure
+
+	1) Security
+
+	2) Scalability
+
+	3) Availability
+
+	4) Network Issues
+
+	5) Disaster Recovery
+
+
+=> Purchasing Infrastructure is costly
+
+=> Managing Infrastructure is risky
+
+=> To overcome the above problems of Infrastructure management, now a days companies are preferring Cloud Computing.
+
+
+========================
+What is Cloud Computing 
+=========================
+
+=> It is the process of delivering IT resources on demand basis over the internet with Pay as you go model.
+
+=> Pay as you go model means use the resources and pay bill for using them just like our post paid bill / electricity bill/ credit bills etc...
+
+=====================
+Cloud Service Models
+=====================
+
+a) IAAS (Infrastructure as a service)
+
+b) PAAS (Platform as a service)
+
+c) SAAS (Software as a service)
+
+=================
+Cloud Providers
+================
+
+=> Companies which are providing IT resources over internet are called as Cloud Providers
+
+	1) Amazon => AWS Cloud
+
+	2) Microsoft => Azure Cloud
+
+	3) Google => GCP Cloud
+
+	4) IBM => IBM Cloud
+
+	5) Oracle => Oracle cloud
+
+============================
+Cloud Computing Advantages
+===========================
+
+1) Pay as you go
+
+2) Low cost
+
+3) Scalability
+
+4) Availability
+
+5) Reliability
+
+6) Unlimited Storage
+
+7) Security
+
+8) Backup
+
+
+=======================
+What is AWS Cloud ?
+=======================
+
+=> AWS stands for "Amazon Web Services"
+
+=> AWS started in the year of 2006
+
+=> 190+ countries are using AWS cloud infrastructure to run their businesses.
+
+==========================
+AWS Global Infrastructure
+==========================
+
+=> AWS maintaining their infrastructure using Regions & Availability Zones
+
+	31 - Regions (Geographical Location)
+
+	99 - Az's (Data Centers)
+
+=> Datacenter means Server Room
+
+
+
+==================
+AWS Account Setup
+==================
+
+-> We can create free account in aws cloud (free tier)
+
+-> 1 year free access (limited services access)
+
+-> Credit Card required (2 rs for account verification)
+
+Note: No Auto Debits
+
+Document or steps will share to Create AWS account
+
+
+======================
+AWS Services Overview
+======================
+
+-> AWS providing 200+ services below are few service to be known by DevOps Engineers
+
+1) IAM : Identity & Access management (RBAC)
+
+2) EC2 : Elastic Compute Cloud (Virtual Machines)
+
+3) S3 : Simple Storage Service (Unlimited Storage)
+
+4) RDS : Relational Database Service (Ex: Oracle, MySQL)
+
+5) Route 53 : Domain Name System (DNS) (ex: www.ashokit.in)
+
+7) VPC : Virtual Private Cloud (isolated network for the resources)
+
+8) Cloud Watch : Monitoring resources in AWS
+
+9) CloudFormation : Infrastructure as a code
+
+10) EFS : Elastic File System (share files with multiple EC2 instances)
+
+11) ECR : Elastic Container Registry (to store our images)
+
+12) EKS : Elastic K8S Service (K8s control plane)
+
+13) Cloud Front : To configure Edge locations
+
+14) AWS CLI : Command line interface
+
+=> Module-1 : DevOps Introduction (Completed)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
